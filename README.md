@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gudurujeevankumar&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gudurujeevankumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=gudurujeevankumar&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
