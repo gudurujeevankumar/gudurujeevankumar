@@ -84,38 +84,39 @@
 
 </div>
 
+<br>
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gudurujeevankumar.gudurujeevankumar&"/>
 </div>
 
 <h3 align="center">Stay Connect With Me 💕</h3>
 
-<br>
 
 <table align="center">
 <tr>
 
 <td align="center">
 <a href="https://www.linkedin.com/in/gudurujeevankumar/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.youtube.com/@JeevanKumarGuduru" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50"/>
 </a>
 </td>
 
 <td align="center">
 <a href="mailto:jeevankumarguduru3@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.instagram.com/jeevankumarguduru_official/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
 </a>
 </td>
 
