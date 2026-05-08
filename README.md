@@ -98,10 +98,10 @@
 
 </div>
 
+<br><br>
+
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gudurujeevankumar&icon=0&color=0"/>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gudurujeevankumar.gudurujeevankumar&"  />
 </div>
 
 <br><br>
