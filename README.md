@@ -1,6 +1,5 @@
 <h1 align="center">Hey There 👋 !<br>This is Jeevan Kumar ❤️</h1>
 
-
 <table width="100%" align="center">
 <tr>
 
@@ -8,12 +7,8 @@
 
 💻 Passionate Web Developer building modern, beautiful, and user-friendly websites.
 
-<br>
-
 🔥 Team Lead @ Bodha Soft  
 🏆 Lead Organizer – Smart India Hackathon Internal Round
-
-<br>
 
 📍 Bengaluru, India
 
@@ -28,10 +23,7 @@
 </tr>
 </table>
 
-
 <h3 align="center">🧑‍💻 Tech Stack</h3>
-
-<br>
 
 <p align="center">
 
@@ -78,17 +70,11 @@
 
 <img src="https://github-readme-stats.shion.dev/api?username=gudurujeevankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
 
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=gudurujeevankumar&theme=dark&hide_border=false" height="180"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gudurujeevankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 
 </div>
-
-<br>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -98,13 +84,9 @@
 
 </div>
 
-<br><br>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gudurujeevankumar.gudurujeevankumar&"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gudurujeevankumar.gudurujeevankumar&"/>
 </div>
-
-<br><br>
 
 <h3 align="center">Stay Connect With Me 💕</h3>
 
