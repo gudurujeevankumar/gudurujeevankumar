@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gudurujeevankumar&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=gudurujeevankumar&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://trophygithubreadmelang.cybee.dpdns.org/?username=gudurujeevankumar&theme=onedark)"/>
 
 </div>
 
