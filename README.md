@@ -74,15 +74,12 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gudurujeevankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 
-</div>
+## 🏆 GitHub Trophies
+<h2 align="center">📈 Contribution Graph</h2>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="[https://github-profile-trophy.vercel.app/?username=gudurujeevankumar&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://trophygithubreadmelang.cybee.dpdns.org/?username=gudurujeevankumar&theme=onedark)"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gudurujeevankumar&theme=github-compact" />
+</p>
 
 <br>
 
